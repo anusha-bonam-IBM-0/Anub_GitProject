@@ -14,7 +14,7 @@
         <number name="createdDate" type="Long">1785820830375</number>
         <value name="lastModifiedBy">Anusha.Bonam@ibm.com</value>
         <value name="lastModifiedByUserId">76b17e9966004516ac1b380f70e283a0</value>
-        <number name="lastModifiedDate" type="Long">1785821330746</number>
+        <number name="lastModifiedDate" type="Long">1785821461354</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -31,10 +31,30 @@
         <value name="node_nsName">Field1</value>
         <value name="node_comment"></value>
         <record name="node_hints" javaclass="com.wm.util.Values">
-          <value name="id">Field1</value>
+          <value name="id">ef6134b4-2b1d-4154-94f5-4b08cb5e7f1d</value>
+          <value name="field_password">false</value>
+          <value name="field_largerEditor">false</value>
         </record>
         <value name="is_public">false</value>
         <value name="field_name">Field1</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="node_comment"></value>
+        <record name="node_hints" javaclass="com.wm.util.Values">
+          <value name="field_largerEditor">false</value>
+          <value name="field_password">false</value>
+          <value name="field_usereditable">false</value>
+          <value name="id">Field73</value>
+        </record>
+        <value name="is_public">false</value>
+        <value name="field_name">Field73</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
