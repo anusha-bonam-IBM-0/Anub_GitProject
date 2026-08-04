@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="record" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="node_nsName">project.anub_git.documenttypes:DocType1</value>
+    <value name="node_pkg">Anub_GitProject</value>
+    <value name="node_comment"></value>
+    <record name="node_hints" javaclass="com.wm.util.Values">
+      <record name="revisionData" javaclass="com.wm.util.Values">
+        <value name="createdBy">Anusha.Bonam@ibm.com</value>
+        <value name="createdByUserId">76b17e9966004516ac1b380f70e283a0</value>
+        <number name="createdDate" type="Long">1785820830375</number>
+        <value name="lastModifiedBy">Anusha.Bonam@ibm.com</value>
+        <value name="lastModifiedByUserId">76b17e9966004516ac1b380f70e283a0</value>
+        <number name="lastModifiedDate" type="Long">1785820830375</number>
+      </record>
+      <Boolean name="wMIODocTypeReplica">true</Boolean>
+    </record>
+    <value name="is_public">false</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="nillable">true</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+    <array name="rec_fields" type="record" depth="1">
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="node_nsName">Field1</value>
+        <value name="node_comment"></value>
+        <record name="node_hints" javaclass="com.wm.util.Values">
+          <value name="id">Field1</value>
+        </record>
+        <value name="is_public">false</value>
+        <value name="field_name">Field1</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+    </array>
+    <value name="modifiable">true</value>
+  </record>
+</Values>
