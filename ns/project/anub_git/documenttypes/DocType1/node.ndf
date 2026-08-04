@@ -14,7 +14,7 @@
         <number name="createdDate" type="Long">1785820830375</number>
         <value name="lastModifiedBy">Anusha.Bonam@ibm.com</value>
         <value name="lastModifiedByUserId">76b17e9966004516ac1b380f70e283a0</value>
-        <number name="lastModifiedDate" type="Long">1785820830375</number>
+        <number name="lastModifiedDate" type="Long">1785821330746</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -43,5 +43,6 @@
       </record>
     </array>
     <value name="modifiable">true</value>
+    <value name="updateRSD">true</value>
   </record>
 </Values>
