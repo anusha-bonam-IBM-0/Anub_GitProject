@@ -14,7 +14,7 @@
         <number name="createdDate" type="Long">1786127393151</number>
         <value name="lastModifiedBy">Anusha.Bonam@ibm.com</value>
         <value name="lastModifiedByUserId">76b17e9966004516ac1b380f70e283a0</value>
-        <number name="lastModifiedDate" type="Long">1786130997278</number>
+        <number name="lastModifiedDate" type="Long">1786131001786</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -44,6 +44,12 @@
           <record name="length" javaclass="com.wm.util.Values">
             <record name="FLenCValue" javaclass="com.wm.util.Values">
               <value name="cDecimalValue">6</value>
+            </record>
+            <value name="facetFixed">false</value>
+          </record>
+          <record name="whiteSpace" javaclass="com.wm.util.Values">
+            <record name="FacetWSCValue" javaclass="com.wm.util.Values">
+              <value name="cDecimalValue">3</value>
             </record>
             <value name="facetFixed">false</value>
           </record>
