@@ -6,7 +6,6 @@
     <value name="node_subtype">unknown</value>
     <value name="node_nsName">project.anub_git.documenttypes:dd3</value>
     <value name="node_pkg">Anub_GitProject</value>
-    <value name="node_comment"></value>
     <record name="node_hints" javaclass="com.wm.util.Values">
       <record name="revisionData" javaclass="com.wm.util.Values">
         <value name="createdBy">Anusha.Bonam@ibm.com</value>
@@ -14,7 +13,7 @@
         <number name="createdDate" type="Long">1786127393151</number>
         <value name="lastModifiedBy">Anusha.Bonam@ibm.com</value>
         <value name="lastModifiedByUserId">76b17e9966004516ac1b380f70e283a0</value>
-        <number name="lastModifiedDate" type="Long">1786131379736</number>
+        <number name="lastModifiedDate" type="Long">1786131457602</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -31,7 +30,6 @@
         <value name="node_nsName">a</value>
         <value name="node_comment"></value>
         <record name="node_hints" javaclass="com.wm.util.Values">
-          <value name="id">a</value>
           <value name="field_password">false</value>
           <value name="field_largerEditor">false</value>
         </record>
@@ -49,7 +47,7 @@
           </record>
           <record name="whiteSpace" javaclass="com.wm.util.Values">
             <record name="FacetWSCValue" javaclass="com.wm.util.Values">
-              <value name="cDecimalValue">3</value>
+              <value name="cDecimalValue">2</value>
             </record>
             <value name="facetFixed">false</value>
           </record>
@@ -97,7 +95,6 @@
           <value name="field_largerEditor">false</value>
           <value name="field_password">false</value>
           <value name="field_usereditable">false</value>
-          <value name="id">28de925d-6567-4634-ac57-0b5b4785cf89</value>
         </record>
         <value name="is_public">false</value>
         <value name="field_name">b</value>
@@ -115,7 +112,6 @@
           <value name="field_largerEditor">false</value>
           <value name="field_password">false</value>
           <value name="field_usereditable">false</value>
-          <value name="id">Field35</value>
         </record>
         <value name="is_public">false</value>
         <value name="field_name">Field35</value>
@@ -133,7 +129,6 @@
           <value name="field_largerEditor">false</value>
           <value name="field_password">false</value>
           <value name="field_usereditable">false</value>
-          <value name="id">Field48</value>
         </record>
         <value name="is_public">false</value>
         <value name="field_name">Field48</value>
