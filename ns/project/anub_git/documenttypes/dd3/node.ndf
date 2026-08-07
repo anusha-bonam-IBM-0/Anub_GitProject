@@ -14,7 +14,7 @@
         <number name="createdDate" type="Long">1786127393151</number>
         <value name="lastModifiedBy">Anusha.Bonam@ibm.com</value>
         <value name="lastModifiedByUserId">76b17e9966004516ac1b380f70e283a0</value>
-        <number name="lastModifiedDate" type="Long">1786127421762</number>
+        <number name="lastModifiedDate" type="Long">1786127762953</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -31,7 +31,7 @@
         <value name="node_nsName">Field1</value>
         <value name="node_comment"></value>
         <record name="node_hints" javaclass="com.wm.util.Values">
-          <value name="id">0e83e33d-ce00-4036-8eff-10b1842e006a</value>
+          <value name="id">c20f0817-f244-40ae-af4c-f1bd34f6322e</value>
           <value name="field_password">false</value>
           <value name="field_largerEditor">false</value>
         </record>
@@ -51,10 +51,28 @@
           <value name="field_largerEditor">false</value>
           <value name="field_password">false</value>
           <value name="field_usereditable">false</value>
-          <value name="id">7fc73a87-64fb-423a-8ef9-bcd863671278</value>
+          <value name="id">0fa86860-fa22-4d03-b73f-f8fcf5a78a3d</value>
         </record>
         <value name="is_public">false</value>
         <value name="field_name">b</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="node_comment"></value>
+        <record name="node_hints" javaclass="com.wm.util.Values">
+          <value name="field_largerEditor">false</value>
+          <value name="field_password">false</value>
+          <value name="field_usereditable">false</value>
+          <value name="id">Field83</value>
+        </record>
+        <value name="is_public">false</value>
+        <value name="field_name">Field83</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
